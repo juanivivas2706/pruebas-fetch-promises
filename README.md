@@ -1,4 +1,4 @@
-## Repositorio de Pruebas - Aprendiendo a usar Fetchs y Promises
+## Repositorio de Pruebas - Probando configuracion CASCADE BD
 
 Mi nombre es Juan Ignacio, 22 años, y estoy armando mis perfiles y portafolios.
 Cuento con conocimientos de HTML, CSS, JavaScript, C y C++.
