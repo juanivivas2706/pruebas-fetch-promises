@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "node": "^22.21.0"
+  },
+  "scripts": {
+    "dev:1": "node --watch main.js"
   }
 }
